@@ -1,72 +1,70 @@
-#nav{
-    background-color: rgba(39, 122, 39, 0.062);
-    border-bottom: 2px solid  rgba(39, 122, 39, 0.808);
-    box-shadow: 0px 1px 6px  grey;
+#nav {
+  background-color: rgba(39, 122, 39, 0.062);
+  border-bottom: 2px solid rgba(39, 122, 39, 0.808);
+  box-shadow: 0px 1px 6px grey;
 }
 
-#logo{
-    font-family: 'Just Another Hand', cursive;
-    font-size: 36pt;
-    color: rgb(65, 9, 65);
-    text-shadow: 0 1px 4px rgba(39, 122, 39, 0.808);
-
+#logo {
+  font-family: "Just Another Hand", cursive;
+  font-size: 36pt;
+  color: rgb(65, 9, 65);
+  text-shadow: 0 1px 4px rgba(39, 122, 39, 0.808);
 }
-#logo img{
-    border: solid 1px rgb(65, 9, 65);
-}
-
-
-#links{
-    font-family: 'Arapey', serif; 
-    color: rgba(39, 122, 39, 0.808);
-    font-size: 14pt;  
+#logo img {
+  border: solid 1px rgb(65, 9, 65);
 }
 
-#display img{
-    height: 686px;
-    width: auto;
+#links {
+  font-family: "Arapey", serif;
+  color: rgba(39, 122, 39, 0.808);
+  font-size: 14pt;
+}
+
+#display img {
+  height: 686px;
+  width: auto;
 }
 
 hr {
-    border: 0 solid rgba(39, 122, 39, 0.808);
-    border-top-width: 1px;
-    height: 0;
-    clear: both;
-    display: block;
-    width: 400px;
-    position: relative;
-  }
- h1{
-    font-family: 'Just Another Hand', cursive;
-    font-size: 48pt;
- }
-
- p{
-    font-family: 'Arapey', serif;
-    font-size: 16pt;
- }
- #cards{
-     height: 750px;
-     width: auto;
-    background-color: rgba(39, 122, 39, 0.062);
- }
-
- #cards img{
-     height: 250px;
-     widows: auto;
- }
-
- .card-title{
-    font-family: 'Just Another Hand', cursive;
-    font-size: 28pt;
- }
-
-.page-footer{
-    background-color: rgba(39, 122, 39, 0.062);
-    border-top: 2px solid  rgba(39, 122, 39, 0.808);
-    font-family: 'Arapey', serif;
-    font-size: 16pt;
+  border: 0 solid rgba(39, 122, 39, 0.808);
+  border-top-width: 1px;
+  height: 0;
+  clear: both;
+  display: block;
+  width: 400px;
+  position: relative;
 }
-#globalWarming{
-    margin-bottom: 30px;
+h1 {
+  font-family: "Just Another Hand", cursive;
+  font-size: 48pt;
+}
+
+p {
+  font-family: "Arapey", serif;
+  font-size: 16pt;
+}
+#cards {
+  height: 750px;
+  width: auto;
+  background-color: rgba(39, 122, 39, 0.062);
+}
+
+#cards img {
+  height: 250px;
+  widows: auto;
+}
+
+.card-title {
+  font-family: "Just Another Hand", cursive;
+  font-size: 28pt;
+}
+
+.page-footer {
+  background-color: rgba(39, 122, 39, 0.062);
+  border-top: 2px solid rgba(39, 122, 39, 0.808);
+  font-family: "Arapey", serif;
+  font-size: 16pt;
+}
+#globalWarming {
+  margin-bottom: 30px;
 }
